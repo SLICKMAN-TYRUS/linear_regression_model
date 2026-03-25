@@ -56,11 +56,11 @@ class _PredictionPageState extends State<PredictionPage> {
   bool isLoading = false;
   String? errorMessage;
 
-  // API URL - CHANGE THIS FOR EMULATOR vs PRODUCTION
-  final String apiUrl = 'http://10.0.2.2:8000/predict'; // Android Emulator
-  // final String apiUrl = 'https://your-api.onrender.com/predict'; // Production
+  // API URL - Production (Render)
+  final String apiUrl = 'https://fragility-api.onrender.com/predict';
+  // For local testing use: 'http://10.0.2.2:8000/predict' (Android Emulator)
 
-  // Pre-fill with South Sudan example data (your case study)
+  // Pre-fill with South Sudan example data (My case study)
   void loadSouthSudanExample() {
     setState(() {
       controllers['c1_security_apparatus']!.text = '9.7';
