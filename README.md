@@ -11,6 +11,10 @@ Swagger Docs: https://fragility-api.onrender.com/docs
 Predict Endpoint: https://fragility-api.onrender.com/predict
 Health Check: https://fragility-api.onrender.com/health
 
+Watch the demo video here
+
+VIDEO LINK 
+
 About the Data
 
 I used the Fragile States Index data from The Fund for Peace covering 2019-2023 (5 years). Each year has data for 176 countries with 12 indicators that measure different aspects of state stability - security apparatus, economic decline, human rights, refugees, etc. Each indicator is scored 0-10 and they add up to a total fragility score (0-120). Higher scores mean the country is more fragile/at risk.
