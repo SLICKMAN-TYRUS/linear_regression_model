@@ -13,7 +13,7 @@ Health Check: https://fragility-api.onrender.com/health
 
 Watch the demo video here
 
-VIDEO LINK 
+VIDEO LINK https://drive.google.com/drive/folders/1s2wzAhzQXfpnBIoZ9eeRWdnXrM5t_Q4p?usp=sharing
 
 About the Data
 
